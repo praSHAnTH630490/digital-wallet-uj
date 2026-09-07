@@ -2,7 +2,7 @@
 
 Java 17 + JSP/Servlet (Jakarta EE, Tomcat 10) + MySQL + Maven + JDBC.
 
-<img src="screenshot.png" alt="App Screenshot" width="500">
+<img src="Screenshot 2026-09-07 074759.png" alt="App Screenshot" width="500">
 
 ## Stack
 | Layer | Choice |
