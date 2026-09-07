@@ -63,7 +63,7 @@ If any step throws a `SQLException`, the `catch` block calls `conn.rollback()`,
 so the debit and credit never happen "halfway" — either all three writes land,
 or none of them do.
 
-## Interview-ready talking point
+## talking point
 > "I used JDBC transaction management. I disabled auto-commit, performed the
 > debit, credit, and transaction-record operations, and committed only when
 > all operations succeeded. If any operation failed, I rolled back the entire
